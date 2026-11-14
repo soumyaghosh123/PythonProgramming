@@ -1,0 +1,6 @@
+num1=input("Enter the first number=>")
+num2=input("Enter the second number=>")
+Quotient=int(num1)/int(num2)
+print("Quotient of",num1,"and",num2,"is",Quotient)
+Reminder=int(num1)%int(num2)
+print("Reminder of",num1,"and",num2,"is",Reminder)
